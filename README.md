@@ -1,2 +1,2 @@
 # aws-project-1
-3-tier architecture in AWS
+A 3-Tier Web Application deployed on AWS using EC2, ALB, and RDS.
